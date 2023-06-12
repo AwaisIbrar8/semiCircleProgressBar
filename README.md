@@ -9,6 +9,31 @@ Semi Circle Progress component for React Native which uses only the native Views
 * Animated
 * Lightweight
 
+## Installation
+
+1. Download package with npm or yarn
+
+```
+npm install semi-circle-progress-bar
+```
+
+```
+yarn add semi-circle-progress-bar
+```
+
+2. Install pods
+
+```
+cd ios && pod install
+```
+
+3. Rebuild the project
+
+```
+npx react-native run-android
+npx react-native run-ios
+```
+
 ## Usage
 ```javascript
 <SemiCircleProgress
