@@ -64,8 +64,10 @@ npx react-native run-ios
 ## Note
 Percentage has higher order, if provided component assumes that you calculated it already and ignores minValue, maxValue and currentValue props
 
-## Developed By Awais Ibrar
+## Developed by Awais Ibrar
+Check out my profile
 
+https://bento.me/iamawais
 ## Buy me a Cup of Coffee
 
 https://www.buymeacoffee.com/awaisibrar9
