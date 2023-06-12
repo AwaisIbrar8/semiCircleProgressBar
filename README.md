@@ -1,4 +1,4 @@
-# react-native-semi-circle-progress
+# semi-circle-progress-bar
 
 ![Semi Circle Progress Demo](demo/demo.gif)
 
