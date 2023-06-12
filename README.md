@@ -41,6 +41,6 @@ Percentage has higher order, if provided component assumes that you calculated i
 
 ## Developed By Awais Ibrar
 
-## Buy me a cup Coffee
+## Buy me a Cup of Coffee
 
 https://www.buymeacoffee.com/awaisibrar9
