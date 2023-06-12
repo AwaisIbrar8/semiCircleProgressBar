@@ -1,6 +1,6 @@
 {
   "name": "semi-circle-progress-bar",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Semi Circle Progress component for React Native which uses only the native Views and requires no external libraries like react-native-svg or similar",
   "main": "src/index.js",
   "scripts": {
